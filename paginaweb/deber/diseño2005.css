@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0PX;
+}
+img{
+    height: 150px;
+    display: block;
+}
+.x{
+    width: 70%;
+    background: #e3e665;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;  
+    display: flex;
+    border: none;
+    border-radius: 5px;
+    
+
+}
+.z{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-left: 25px;
+    justify-content: space-around;
+}
+
+.b{
+    border: none;
+    border-radius: 10px;
+}
+.a{
+    border: none;
+    border-radius: 10px;
+}
